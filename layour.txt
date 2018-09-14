@@ -1,0 +1,33 @@
+1  // Your folder structure at the end should look like this: 
+2  
+ 
+3  - backend/ 
+4    - models/ 
+5      - comment.js 
+6    - secrets.js 
+7    - server.js 
+8  - client/ 
+9    - public/ 
+10      - favicon.ico 
+11      - index.html 
+12      - manifest.json 
+13    - src/ 
+14      - Comment.js 
+15      - CommentBox.css 
+16      - CommentBox.js 
+17      - CommentForm.js 
+18      - CommentList.js 
+19      - data.js 
+20      - index.css 
+21      - index.js 
+22      - registerServiceWorker.js 
+23    - .eslintrc.json 
+24    - README.md 
+25    - package.json 
+26    - yarn.lock 
+27  - package.json 
+28  - yarn.lock 
+
+
+-0---------------------------------------------
+https://github.com/Maxamillion000000000/MERN/
