@@ -1,15 +1,12 @@
 {
-  "name": "mern-comment-box",
-  "version": "1.0.0",
+  "name": "MERNat",
+  "version": "1",
   "description": "mongodb express react node js",
   "main": "index.js",
   "scripts": {
     "test": "t"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/%16%16Maxamillion000000000/MERN.git"
-  },
+  "repository": "git+https://github.com/%16%16Maxamillion000000000/MERN.git",
   "keywords": [
     "practice"
   ],
